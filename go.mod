@@ -1,4 +1,4 @@
-module gin
+module gin-anotations
 
 go 1.21.0
 
